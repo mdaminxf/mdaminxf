@@ -1,4 +1,4 @@
-# 👋 Hi — I’m Muhammad Amin Jilani (mdaminxf)
+# 👋 Hi — I’m Muhammad Amin Jilani
 
 **Full-Stack Web Developer (MERN & Next.js) & Cybersecurity Analyst / Ethical Hacker**  
 🎓 B.Sc. (CS) · Currently exploring **Agentic AI**, advanced offensive/defensive security, and web innovations.
