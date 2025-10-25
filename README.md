@@ -19,6 +19,13 @@
 
 ---
 
+<!-- Two-theme separator: left = light (Developer), right = dark (Hacker) -->
+<div align="center">
+  <img alt="Developer / Hacker Separator" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDEwMDAgMTIwIj4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjEyMCIgZmlsbD0iI2Y4ZmFmYyIvPgogIDxyZWN0IHg9IjUwMCIgeT0iMCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxMjAiIGZpbGw9IiMwYjEyMjAiLz4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHgyPSIwIiB5MT0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjOWNhM2FmIiBzdG9wLW9wYWNpdHk9IjAuMTIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOWNhM2FmIiBzdG9wLW9wYWNpdHk9IjAuMDYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHg9IjQ5OCIgeT0iOCIgd2lkdGg9IjQiIGhlaWdodD0iMTA0IiBmaWxsPSJ1cmwoI2cpIi8+CiAgPHRleHQgeD0iMjUwIiB5PSI3MCIgZm9udC1zaXplPSIyOCIgZm9udC1mYW1pbHk9IlNlZ29lIFVJLCBSb2JvdG8sIHNhbnMtc2VyaWYiIGZpbGw9IiMwYjEyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiPtCfkrsgRGV2ZWxvcGVyPC90ZXh0PgogIDx0ZXh0IHg9Ijc1MCIgeT0iNzAiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtZmFtaWx5PSJTZWdvZSBVSSwgUm9ib3RvLCBzYW5zLXNlcmlmIiBmaWxsPSIjZTZlZWY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7wn5uh77iPIEhhY2tlcjwvdGV4dD4KPC9zdmc+" width="100%" style="max-width:1000px; height:auto;" />
+</div>
+
+---
+
 ## 🛠️ Developer — Tech & Tools
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,7 +38,6 @@
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 **Developer highlights**
@@ -59,8 +65,6 @@
 ---
 
 ## 🔗 Featured / Pin Recommendations
-> Pick 4–6 repos to pin. Keep the pinned list balanced: 2 developer projects + 2 security projects/writeups.
-
 **Developer**
 - `next-ecom` — Next.js commerce demo with secure auth & payment flow (SSG + API routes).
 - `mern-starter` — Opinionated MERN boilerplate with testing and CI.
@@ -71,6 +75,21 @@
 
 ---
 
-## 📌 Example repo README template (use for pinned projects)
-> Use this snippet to create consistent READMEs for each pinned project.
+## 📊 GitHub Stats & Top Languages
+[![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdaminxf&show_icons=true&theme=radical&hide_border=true)](https://github.com/mdaminxf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaminxf&layout=compact&hide_border=true)](https://github.com/mdaminxf)
 
+---
+
+## ⚖️ Ethics & rules I follow
+- **Ethical Hacking only.** I only test systems I own or have explicit permission to test. I report findings responsibly.
+- No credential harvesting, no data exfiltration in public writeups, and no illegal guidance.
+
+---
+
+## 📫 Contact / Work with me
+- LinkedIn: https://www.linkedin.com/in/mdaminjilani  
+- Instagram: https://www.instagram.com/_muhammadamin313  
+- Discord tag: `muhammadamin0482_67271` (DMs open)  
+- Portfolio / Resume: `PORTFOLIO_URL`  
+- Email: `EMAIL`
