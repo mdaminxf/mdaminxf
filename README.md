@@ -12,10 +12,10 @@
 
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nitindew" target="_blank">
+  <a href="https://linkedin.com/in/mdaminjilani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/sudo.zen" target="_blank">
+  <a href="https://instagram.com/_muhammadamin313" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:mdaminjilani313@gmail.com" target="_blank">
@@ -72,13 +72,13 @@
 <p></p>
 
 
-<h3 align="left">📍 Current Focus & Projects</h3>
+<h2 align="left">📍 Current Focus & Projects</h3>
 
-<p align="left">
+<h3 align="left">
   🚀 Exploring <strong>Agentic AI</strong> and building autonomous AI agents.<br/>
   🕵️ Actively participating in <strong>CTF competitions</strong> to sharpen offensive & defensive cybersecurity skills.<br/>
   💡 Experimenting with AI-driven security tools, automation, and threat detection.
-</p>
+</h3>
 
 <p></p>
 <p></p>
