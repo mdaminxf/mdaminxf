@@ -75,9 +75,8 @@ Full-Stack Developer specializing in **MERN & Next.js** ecosystems. Passionate a
 
 | 🎯 Initiative | 📝 Description |
 |---|---|
-| 🤖 **Agentic AI** | Building autonomous AI agents and intelligent automation systems |
+| 🤖 **MCP Server** | Building an MCP server for dgital forensics |
 | 🛡️ **CTF Challenges** | Actively competing in Capture The Flag competitions |
-| 🔐 **Security Tools** | Developing AI-driven threat detection and analysis tools |
 | 💻 **Full-Stack Apps** | Creating modern, secure web applications with MERN & Next.js |
 
 ---
