@@ -8,7 +8,7 @@
 "Building secure, scalable solutions with elegant code"
 ```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-CodeAndCraft-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)](https://codeandcraft-six.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-CodeAndCraft-FF6B6B?style=for-the-badge&logo=gloab&logoColor=white)](https://codeandcraft-six.vercel.app)
 [![GitHub followers](https://img.shields.io/github/followers/mdaminxf?style=for-the-badge&logo=github)](https://github.com/mdaminxf?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mdaminjilani)
 
