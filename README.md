@@ -67,9 +67,9 @@
 
 ## 📊 GitHub Analytics
 
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdaminxf&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdaminxf&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/mdaminxf)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaminxf&layout=compact&theme=dark&hide_border=true&langs_count=10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaminxf&layout=compact&theme=dark&hide_border=true&langs_count=10)](https://github.com/mdaminxf)
 
 ---
 
