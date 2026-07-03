@@ -67,10 +67,6 @@ Full-Stack Developer specializing in **MERN & Next.js** ecosystems. Passionate a
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdaminxf&theme=dark&hide_border=true)](https://github.com/mdaminxf)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=mdaminxf&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/mdaminxf)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaminxf&layout=compact&theme=dark&hide_border=true&langs_count=10)](https://github.com/mdaminxf)
-
 </div>
 
 ---
