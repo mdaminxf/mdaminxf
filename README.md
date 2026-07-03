@@ -1,99 +1,152 @@
-# 👋 Hi — I'm Muhammad Amin Jilani
+# 🚀 Muhammad Amin Jilani
 
-**Full-Stack Web Developer (MERN & Next.js) | Cybersecurity Analyst | Ethical Hacker**  
-🎓 B.Sc. Computer Science · Passionate about **Agentic AI**, advanced security, and scalable web solutions.
+<div align="center">
 
----
+### Full-Stack Developer | Cybersecurity Enthusiast | Agentic AI Explorer
 
-## 🌐 Connect with Me
+```
+"Building secure, scalable solutions with elegant code"
+```
 
-<p align="left">
-  <a href="https://linkedin.com/in/mdaminjilani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/_muhammadamin313" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/mdaminxf" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:mdaminjilani313@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-CodeAndCraft-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)](https://codeandcraft-six.vercel.app)
+[![GitHub followers](https://img.shields.io/github/followers/mdaminxf?style=for-the-badge&logo=github)](https://github.com/mdaminxf?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mdaminjilani)
+
+</div>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🎯 About Me
 
-### **Programming Languages**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" title="Rust"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" title="Bash"/>
-</p>
+Full-Stack Developer specializing in **MERN & Next.js** ecosystems. Passionate about:
+- 🔐 Building secure, scalable web applications  
+- 🤖 Exploring Agentic AI and automation
+- 🛡️ Cybersecurity and ethical hacking
+- 💡 Creating elegant solutions to complex problems
 
-### **Frontend & Web Technologies**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" title="Next.js"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS"/>
-</p>
+**Education**: B.Sc. Computer Science | **Focus**: Web Innovation & Security
 
-### **Backend & Databases**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40" title="Firebase"/>
-</p>
+---
 
-### **Cybersecurity & DevOps Tools**
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" alt="Kali Linux" width="40" height="40" title="Kali Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" title="Docker"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
-</p>
+## 💻 Tech Stack
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### 🛠️ Languages & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+### 🔒 Cybersecurity & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
-[![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdaminxf&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/mdaminxf)
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdaminxf&theme=dark&hide_border=true)](https://github.com/mdaminxf)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=mdaminxf&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/mdaminxf)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaminxf&layout=compact&theme=dark&hide_border=true&langs_count=10)](https://github.com/mdaminxf)
 
----
-
-## 🎯 Current Focus & Projects
-
-- 🚀 **Exploring Agentic AI** — Building autonomous AI agents and intelligent automation solutions
-- 🕵️ **Cybersecurity** — Actively participating in CTF competitions and bug bounty programs
-- 💡 **Security Innovation** — Developing AI-driven security tools and threat detection systems
-- 🔐 **Full-Stack Security** — Integrating security best practices across modern web applications
+</div>
 
 ---
 
-## 💼 What I Do
+## 🚀 Current Projects & Focus
 
-- Design and develop full-stack web applications using MERN and Next.js
-- Conduct security assessments and penetration testing
-- Build scalable backend services and RESTful APIs
-- Implement secure authentication and authorization mechanisms
-- Contribute to open-source projects and community knowledge sharing
+| 🎯 Initiative | 📝 Description |
+|---|---|
+| 🤖 **Agentic AI** | Building autonomous AI agents and intelligent automation systems |
+| 🛡️ **CTF Challenges** | Actively competing in Capture The Flag competitions |
+| 🔐 **Security Tools** | Developing AI-driven threat detection and analysis tools |
+| 💻 **Full-Stack Apps** | Creating modern, secure web applications with MERN & Next.js |
+
+---
+
+## 💡 What I Deliver
+
+```yaml
+Frontend:
+  - Responsive, accessible UI components
+  - Performance-optimized React applications
+  - Modern design patterns with Tailwind CSS
+  - Type-safe TypeScript implementations
+
+Backend:
+  - Scalable REST & GraphQL APIs
+  - Database design & optimization
+  - Authentication & security implementation
+  - Cloud deployment & DevOps
+
+Security:
+  - Vulnerability assessment & penetration testing
+  - Secure code practices & OWASP compliance
+  - Network analysis & threat modeling
+  - CTF & bug bounty participation
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaminjilani313@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdaminjilani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_muhammadamin313)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdaminxf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-codeandcraft--six.vercel.app-FF6B6B?style=for-the-badge&logo=vercel)](https://codeandcraft-six.vercel.app)
+
+</div>
+
+---
+
+## 🎓 Learning & Development
+
+Continuously exploring:
+- Advanced JavaScript/TypeScript patterns
+- System design & architecture
+- Machine Learning & AI integration
+- Cloud infrastructure (AWS, GCP, Azure)
+- Advanced cybersecurity techniques
 
 ---
 
 <div align="center">
 
-**Let's collaborate on innovative projects that combine security and scalability!**
+### 💼 Open for Collaboration
+
+Building something awesome? Let's connect and create magic together!
+
+**[Visit My Portfolio →](https://codeandcraft-six.vercel.app)**
+
+---
+
+```
+Made with ❤️ by Muhammad Amin Jilani
+```
 
 </div>
